@@ -1,0 +1,10 @@
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\bin\Debug\appPlanilla_CS_4DS_2024.exe.config
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\bin\Debug\appPlanilla_CS_4DS_2024.exe
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\bin\Debug\appPlanilla_CS_4DS_2024.pdb
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.csproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.Properties.Resources.resources
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.ui.frmLogin.resources
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.csproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.exe
+C:\Users\Alumno\Downloads\jos\appPlanilla_CS_4DS_2024\obj\Debug\appPlanilla_CS_4DS_2024.pdb
